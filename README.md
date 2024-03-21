@@ -34,7 +34,7 @@
     password : bansikah
     ```
 
-    visit [link](jwt.io)
+    visit [link](https://jwt.io)
 
 Spring boot Configuration in application.yaml file
 
